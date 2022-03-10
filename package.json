@@ -1,0 +1,16 @@
+{
+  "name": "cuitodieu",
+  "version": "1.0.0",
+  "description": "Un bot qui celebre... LA CUITOCHETTE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Darknew",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "fs": "0.0.1-security"
+  }
+}
